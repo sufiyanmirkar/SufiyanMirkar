@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Sufiyan Mirkar 👋  
+Aspiring Data Analyst | Excel • SQL • Power BI • Tableau • Python
 
-<!--
-**sufiyanmirkar/SufiyanMirkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I analyze datasets, build dashboards, and create insights that help businesses make better decisions.  
+Currently working on real-world analytics projects and building a strong portfolio in data analytics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills & Tools
+- **Languages:** Python (Basics)
+- **Databases:** MySQL
+- **Tools:** Excel (Advanced), Power BI, Tableau
+- **Visualization:** Dashboards + Storytelling
+- **Other:** Data Cleaning, Analysis, Forecasting, RFM, Attribution
+
+---
+
+## 📌 Featured Projects
+| Project | Tools | Description |
+|--------|-------|-------------|
+| **Customer Loyalty & Marketing Attribution** | SQL, Excel, Tableau | Analyzed Apple iPhone sales, customer behavior, campaign impact, RFM segmentation. |
+| **Impact of GST on Bajaj Motorcycle Sales** | Excel, Forecasting | Compared pre/post GST trends, revenue, price impact, KPIs & dashboards. |
+| **Sales & Performance Dashboards (Ongoing)** | Power BI, SQL | Building cross-tool dashboards with insights & KPI storytelling. |
+
+---
+
+## 📫 Connect With Me
+📌 **LinkedIn:** linkedin.com/in/sufiyanmirkar  
+📧 **Email:** sufiyanmirkarr@gmail.com  
