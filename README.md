@@ -6,7 +6,7 @@ Currently working on real-world analytics projects and building a strong portfol
 
 ---
 
-## 🔥 Skills & Tools
+## Skills & Tools
 - **Languages:** Python (Basics)
 - **Databases:** MySQL
 - **Tools:** Excel (Advanced), Power BI, Tableau
